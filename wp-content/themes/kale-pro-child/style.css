@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Kale Pro Child
+ Theme URI:    https://www.lyrathemes.com/kale-pro/
+ Description:  Kale Pro Child Theme
+ Author:       LyraThemes
+ Author URI:   https://www.lyrathemes.com
+ Template:     kale-pro
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  kale-pro-child
+*/
+
+
+
+#search-3 .search-form .form-control{
+ width:40% !important;
+ border: 1px solid #000000;
+}
+
+#search-3 .search-form button{
+ background-color: transparent;
+ color: #000000;
+ border-color: transparent;
+ font-size: 19px;
+ padding: 0;
+ padding-left: 10px;
+}
+
+#search-3 .search-form button:hover{
+ color: #8D8D8D;
+}
+
+#search-3{
+ padding: 0;
+ background-color: transparent;
+}
+
+.navbar-nav > li > a{font-size:12px;padding:23px 20px;letter-spacing:2px}
+
+#menu-submenu li a{
+ text-transform: capitalize;
+}
+
+
+
